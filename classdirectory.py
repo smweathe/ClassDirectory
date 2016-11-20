@@ -1,7 +1,3 @@
-"""Write a program that creates a directory containing course numbers and the
-room numbers of the rooms where the courses meet. The dictionary should have
-the following key-value pairs:"""
-
 def main():
 	#Setup class information
 	room = {'CS101' : "3004",'CS102' : "4501",'CS103' : "6755",'NT110' : "1244", 'CM241' : "1411"}
