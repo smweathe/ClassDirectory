@@ -34,7 +34,7 @@ class Car:
         return self.speed 
 
 def main():
-    my_car = Car("1999", "Pontiac Firebird",0)
+    my_car = Car("1999", "Pontiac",0)
 
     for i in range(5):
         my_car.accelerate()
